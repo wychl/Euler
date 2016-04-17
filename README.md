@@ -1,5 +1,9 @@
-# Euler
-Project Euler的Golang实现
+# Euler的Golang实现
+
+Golang爱好者，使用欧拉计划问题练练手。
+下面是已经解决的问题，然而我给出的解决方案还有许多改进的地方，希望感兴趣的给出更好的解决方案。
+
+
 
 [Problem 1:Multiples of 3 and 5](https://github.com/wychl/Euler/tree/master/1/2/1.go)
 
